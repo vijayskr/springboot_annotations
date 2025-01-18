@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Safari/605.1.15" version="26.0.6">
   <diagram name="Page-1" id="_rFBySnfzoPYbshQJ1sT">
-    <mxGraphModel dx="1026" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" adaptiveColors="auto">
+    <mxGraphModel dx="285" dy="176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" adaptiveColors="auto">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="7" value="Spring Boot" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="34" y="641" width="142" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="@RestController" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;" parent="1" source="2" target="3" edge="1">
+        <mxCell id="8" value="@RestController" style="curved=0;startArrow=none;endArrow=classicThin;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;flowAnimation=1;dashed=1;dashPattern=1 2;rounded=0;strokeColor=default;jumpSize=2;endFill=1;" parent="1" source="2" target="3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
